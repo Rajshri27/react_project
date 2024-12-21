@@ -1,0 +1,75 @@
+.header {
+  background-color: #1DA1F2;
+  color: white;
+}
+table {
+  width: 80%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+table, tr, th, td {
+  border: 1px solid grey;
+}
+
+.header_text {
+  padding: 10px;
+}
+th {
+  background-color: #1DA1F2;
+  color: white;
+  padding: 10px;
+}
+td {
+  text-align: center;
+}
+.edit_icon {
+  margin-right: 8px;
+}
+.add {
+  position: relative;
+  left: 58%;
+}
+.table {
+  width: 70%;
+}
+.add_button {
+      background-color: #1DA1F2;
+      border: none;
+      padding: 10px;
+      width: 12%;
+      border-radius: 5px;
+      color: white;
+}
+.form {
+  display: flex;
+  justify-content: center;
+}
+label{
+  font-size: 18px;
+}
+.input1 {
+  margin-left: 70px;
+}
+.input2 {
+  margin-left: 10px;
+}
+.input3 {
+  margin-left: 25px;
+}
+.input4 {
+  margin-left: 30px;
+}
+.submit_button
+{
+  background-color: #1DA1F2;
+  border: none;
+  padding: 10px;
+  width: 35%;
+  border-radius: 5px;
+  color: white;
+  margin-top: 50px;
+  margin-left: 42px;
+}
+.input_field{
+  margin-bottom: 20px;
+}
